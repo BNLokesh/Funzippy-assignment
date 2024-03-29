@@ -1,0 +1,703 @@
+.story-shape-6-2-icon,
+.story-shape-6-3-icon,
+.story-shape-6-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 392px;
+  height: 392px;
+  object-fit: cover;
+}
+.story-shape-6-3-icon,
+.story-shape-6-4-icon {
+  left: 353px;
+}
+.story-shape-6-4-icon {
+  left: 710px;
+}
+.story-shape-6-2-group,
+.story-shape-6-2-parent {
+  position: absolute;
+  top: 1578px;
+  left: 169px;
+  width: 1102px;
+  height: 392px;
+}
+.story-shape-6-2-group {
+  top: 2010px;
+}
+.card-7-child,
+.card-7-item {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.card-7-child {
+  bottom: 0;
+  background-color: #2d2420;
+  height: 382px;
+}
+.card-7-item {
+  top: 4422px;
+  background-color: #f1f3ee;
+  height: 819px;
+}
+.flower-shape1-1-icon,
+.flower-shape3-1-icon {
+  position: absolute;
+  top: 4457px;
+  left: -48px;
+  width: 370px;
+  height: 720px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.flower-shape3-1-icon {
+  top: 4519px;
+  left: 1160px;
+  width: 279px;
+  height: 641px;
+}
+.hero-6-1-icon,
+.title-flower-five-1-icon {
+  position: absolute;
+  top: 262px;
+  left: 766px;
+  width: 456px;
+  height: 572px;
+  object-fit: cover;
+}
+.title-flower-five-1-icon {
+  top: 88px;
+  left: 83px;
+  width: 1274px;
+  height: 848px;
+}
+.home,
+.schedules {
+  position: relative;
+  font-weight: 500;
+}
+.schedules {
+  text-transform: uppercase;
+}
+.home-parent {
+  position: absolute;
+  top: 55px;
+  left: calc(50% - 277px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkolivegreen);
+}
+.our-big-day {
+  position: absolute;
+  top: 487px;
+  left: 391px;
+}
+.we-look-forward,
+.we-look-forward1 {
+  position: absolute;
+  top: 1181px;
+  left: 927px;
+  text-align: left;
+  display: inline-block;
+  width: 353px;
+}
+.we-look-forward1 {
+  top: 1198px;
+  left: 160px;
+  text-align: right;
+}
+.monday-12-apr,
+.monday-15-apr,
+.monday-25-apr {
+  position: absolute;
+  top: 3921px;
+  left: 171px;
+  font-size: var(--font-size-lg);
+  color: var(--color-rosybrown);
+}
+.monday-15-apr,
+.monday-25-apr {
+  left: 551px;
+}
+.monday-25-apr {
+  left: 936px;
+}
+.blue-ginger-lawn {
+  margin: 0;
+}
+.blue-ginger-lawn-container,
+.blue-ginger-lawn-container1,
+.blue-ginger-lawn-container2 {
+  position: absolute;
+  top: 3966px;
+  left: 193px;
+  display: inline-block;
+  width: 292px;
+}
+.blue-ginger-lawn-container1,
+.blue-ginger-lawn-container2 {
+  left: 573px;
+}
+.blue-ginger-lawn-container2 {
+  left: 959px;
+}
+.days,
+.hours,
+.mins,
+.secs {
+  position: absolute;
+  top: 676px;
+  left: 383px;
+  font-size: var(--font-size-base);
+}
+.hours,
+.mins,
+.secs {
+  left: 485px;
+}
+.mins,
+.secs {
+  left: 583px;
+}
+.secs {
+  left: 676px;
+}
+.ritesh-joya,
+.schedules1 {
+  position: absolute;
+  font-size: var(--font-size-43xl);
+  font-family: var(--font-sail);
+  color: var(--color-black);
+}
+.ritesh-joya {
+  top: 398px;
+  left: 353px;
+}
+.schedules1 {
+  top: 1453px;
+  left: calc(50% - 125px);
+}
+.when-where {
+  top: 3287px;
+  left: calc(50% - 213px);
+  color: var(--color-black);
+}
+.album,
+.div,
+.div1,
+.div2,
+.div3,
+.when-where {
+  position: absolute;
+  font-size: var(--font-size-43xl);
+  font-family: var(--font-sail);
+}
+.album {
+  top: 4501px;
+  left: calc(50% - 97px);
+  color: var(--color-black);
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  top: 604px;
+  left: 363px;
+  color: var(--color-darkolivegreen);
+}
+.div1,
+.div2,
+.div3 {
+  left: 478px;
+}
+.div2,
+.div3 {
+  left: 576px;
+}
+.div3 {
+  left: 665px;
+}
+.date-shape-1-icon {
+  position: absolute;
+  top: 533px;
+  left: 471px;
+  width: 140px;
+  height: 49px;
+  object-fit: cover;
+}
+.jaya-syarma,
+.ritesh-debtath,
+.the-ceremony,
+.the-party,
+.the-reception {
+  position: absolute;
+  top: 1102px;
+  left: 927px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-sail);
+  color: var(--color-black);
+}
+.ritesh-debtath,
+.the-ceremony,
+.the-party,
+.the-reception {
+  top: 1119px;
+  left: 204px;
+}
+.the-ceremony,
+.the-party,
+.the-reception {
+  top: 3844px;
+  left: 189px;
+}
+.the-ceremony,
+.the-party {
+  left: 572px;
+}
+.the-party {
+  left: 991px;
+}
+.bachelor-party,
+.haldi-ceremony,
+.mehndi-ceremony,
+.pithi-ceremony,
+.sangeet-night,
+.tilak-ceremony {
+  position: absolute;
+  top: 30.87%;
+  left: 17.78%;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-sail);
+  color: var(--color-black);
+}
+.bachelor-party,
+.haldi-ceremony,
+.pithi-ceremony,
+.sangeet-night,
+.tilak-ceremony {
+  left: 43.61%;
+}
+.bachelor-party,
+.haldi-ceremony,
+.pithi-ceremony,
+.tilak-ceremony {
+  top: 38.55%;
+  left: 19.03%;
+}
+.bachelor-party,
+.haldi-ceremony,
+.tilak-ceremony {
+  left: 68.33%;
+}
+.haldi-ceremony,
+.tilak-ceremony {
+  top: 30.87%;
+  left: 68.26%;
+}
+.tilak-ceremony {
+  top: 38.55%;
+  left: 43.54%;
+}
+.march-25-2024 {
+  position: absolute;
+  top: 31.6%;
+  left: calc(50% - 427px);
+}
+.march-26-2024,
+.march-28-2024 {
+  position: absolute;
+  top: 31.6%;
+  left: calc(50% - 74px);
+}
+.march-28-2024 {
+  top: 39.28%;
+  left: calc(50% - 425px);
+}
+.march-27-2024,
+.march-27-20241 {
+  position: absolute;
+  top: 39.28%;
+  left: calc(50% + 290px);
+}
+.march-27-20241 {
+  top: 31.6%;
+  left: calc(50% + 288px);
+}
+.march-29-2024,
+.pm-1100,
+.pm-700 {
+  position: absolute;
+  top: 39.28%;
+  left: calc(50% - 69px);
+}
+.pm-1100,
+.pm-700 {
+  top: 32.15%;
+  left: calc(50% - 439px);
+}
+.pm-1100 {
+  left: calc(50% - 89px);
+}
+.am-100,
+.am-200,
+.pm-100,
+.pm-300 {
+  position: absolute;
+  top: 39.83%;
+  left: calc(50% - 442px);
+}
+.am-100,
+.pm-100,
+.pm-300 {
+  left: calc(50% + 276px);
+}
+.am-100,
+.pm-300 {
+  top: 32.15%;
+  left: calc(50% + 269px);
+}
+.pm-300 {
+  top: 39.83%;
+  left: calc(50% - 87px);
+}
+.card-7-inner {
+  position: absolute;
+  top: 2480px;
+  left: 61px;
+  width: 1318px;
+  height: 705px;
+  object-fit: cover;
+}
+.card-7-child1,
+.rectangle-div {
+  position: absolute;
+  top: 2531px;
+  left: 160px;
+  background-color: var(--color-white);
+  width: 545px;
+  height: 599px;
+}
+.card-7-child1 {
+  top: 4626px;
+  left: 167px;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.01);
+  height: 448px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 4651px;
+  left: 198px;
+  width: 483px;
+  height: 398px;
+  object-fit: cover;
+}
+.card-7-child2 {
+  position: absolute;
+  top: 4626px;
+  left: 722px;
+  background-color: var(--color-white);
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.01);
+  width: 545px;
+  height: 448px;
+}
+.are-you-attending {
+  position: absolute;
+  top: 2588px;
+  left: 215px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-sail);
+  color: var(--color-black);
+}
+.email,
+.name,
+.number-of-guests,
+.sorry-i-cant,
+.what-will-you,
+.yes-i-will {
+  position: absolute;
+  top: 2702px;
+  left: 212px;
+  font-size: var(--font-size-base);
+  text-align: left;
+}
+.email,
+.number-of-guests,
+.sorry-i-cant,
+.what-will-you,
+.yes-i-will {
+  top: 2772px;
+}
+.number-of-guests,
+.sorry-i-cant,
+.what-will-you,
+.yes-i-will {
+  top: 2894px;
+}
+.sorry-i-cant,
+.what-will-you,
+.yes-i-will {
+  top: 2842px;
+  left: 237px;
+}
+.sorry-i-cant,
+.what-will-you {
+  left: 427px;
+}
+.what-will-you {
+  top: 2964px;
+  left: 212px;
+}
+.card-7-child3,
+.card-7-child4,
+.card-7-child5,
+.line-div {
+  position: absolute;
+  top: 2742.5px;
+  left: 211.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 442px;
+  height: 1px;
+}
+.card-7-child3,
+.card-7-child4,
+.card-7-child5 {
+  top: 2812.5px;
+}
+.card-7-child4,
+.card-7-child5 {
+  top: 2934.5px;
+}
+.card-7-child5 {
+  top: 3004.5px;
+}
+.card-7-child6,
+.ellipse-div {
+  position: absolute;
+  top: 2845px;
+  left: 212px;
+  border-radius: 50%;
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.card-7-child6 {
+  left: 402px;
+}
+.card-7-child7 {
+  position: absolute;
+  top: 3030px;
+  left: 212px;
+  background-color: var(--color-darkolivegreen);
+  width: 141px;
+  height: 43px;
+}
+.rsvp1 {
+  position: absolute;
+  top: 3039px;
+  left: 261px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: left;
+}
+.card-7-child8,
+.card-7-child9,
+.group-icon {
+  position: absolute;
+  top: 4628px;
+  left: 700px;
+  width: 34px;
+  height: 23px;
+}
+.card-7-child8,
+.card-7-child9 {
+  top: 4669px;
+}
+.card-7-child9 {
+  top: 4710px;
+}
+.card-7-child10,
+.card-7-child11,
+.card-7-child12,
+.card-7-child13 {
+  position: absolute;
+  top: 4751px;
+  left: 700px;
+  width: 34px;
+  height: 23px;
+}
+.card-7-child11,
+.card-7-child12,
+.card-7-child13 {
+  top: 4792px;
+}
+.card-7-child12,
+.card-7-child13 {
+  top: 4833px;
+}
+.card-7-child13 {
+  top: 4874px;
+}
+.card-7-child14,
+.card-7-child15,
+.card-7-child16,
+.card-7-child17 {
+  position: absolute;
+  top: 4915px;
+  left: 700px;
+  width: 34px;
+  height: 23px;
+}
+.card-7-child15,
+.card-7-child16,
+.card-7-child17 {
+  top: 4956px;
+}
+.card-7-child16,
+.card-7-child17 {
+  top: 4997px;
+}
+.card-7-child17 {
+  top: 5038px;
+}
+.card-7-child18,
+.footer-shape-2-1-icon {
+  position: absolute;
+  top: 4651px;
+  left: 753px;
+  width: 483px;
+  height: 398px;
+  object-fit: cover;
+}
+.footer-shape-2-1-icon {
+  height: 3.09%;
+  width: 12.92%;
+  top: 93.23%;
+  right: -3.97%;
+  bottom: 3.68%;
+  left: 91.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-group,
+.let-us-come {
+  position: absolute;
+  color: var(--color-white);
+}
+.let-us-come {
+  top: 5321px;
+  left: calc(50% - 352px);
+  font-size: 24px;
+  display: inline-block;
+  width: 704px;
+}
+.home-group {
+  top: 5520px;
+  left: calc(50% - 341px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.footer-shape-1-1-icon {
+  position: absolute;
+  height: 3.68%;
+  width: 14.97%;
+  top: 96.32%;
+  right: 86.22%;
+  bottom: 0;
+  left: -1.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.story-shape-6-1-icon {
+  position: absolute;
+  top: 1005px;
+  left: 537px;
+  width: 360px;
+  height: 360px;
+  object-fit: cover;
+}
+.indain-couple-1-1,
+.story-shape-6-2-icon2,
+.story-shape-6-3-icon2,
+.story-shape-6-4-icon2 {
+  position: absolute;
+  top: 3387px;
+  left: 124px;
+  width: 430px;
+  height: 430px;
+  object-fit: cover;
+}
+.indain-couple-1-1,
+.story-shape-6-3-icon2,
+.story-shape-6-4-icon2 {
+  left: 512px;
+}
+.indain-couple-1-1,
+.story-shape-6-4-icon2 {
+  left: 890px;
+}
+.indain-couple-1-1 {
+  top: 974px;
+  left: 566px;
+  width: 302px;
+  height: 422px;
+}
+.story-six-1-icon,
+.story-six-2-icon,
+.story-six-3-icon {
+  position: absolute;
+  top: 3409px;
+  left: 942px;
+  width: 316px;
+  height: 386px;
+  object-fit: cover;
+}
+.story-six-1-icon,
+.story-six-3-icon {
+  left: 562px;
+}
+.story-six-1-icon {
+  left: 155px;
+}
+.card-7-child19 {
+  position: absolute;
+  top: 4122px;
+  left: calc(50% - 560px);
+  border-radius: 20px;
+  width: 1120px;
+  height: 231px;
+  object-fit: cover;
+}
+.wedding {
+  position: absolute;
+  top: 43px;
+  left: 155px;
+  font-size: 40px;
+  font-family: var(--font-sail);
+  color: var(--color-darkolivegreen);
+}
+.card-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 5624px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
